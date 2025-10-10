@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+matplotlib
+tensorflow
+scikit-learn
+Pillow
+telebot
+roboflow
+ultralytics
